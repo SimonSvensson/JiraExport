@@ -1,0 +1,9 @@
+{
+  "username": "YOUR_USERNAME",
+  "password": "YOUR_PASSWORD",
+  "url": "https://supportline.atlassian.net/rest/servicedeskapi/servicedesk/YOUR_URL",
+  "excludedDomains": [
+    "@example.com",
+    "@example.net"
+  ]
+}
